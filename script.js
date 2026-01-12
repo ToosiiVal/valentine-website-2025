@@ -1,6 +1,6 @@
 // Initialize configuration
 const config = window.VALENTINE_CONFIG;
-
+valentineName = "Vashti
 // Validate configuration
 function validateConfig() {
     const warnings = [];
